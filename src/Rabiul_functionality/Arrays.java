@@ -7,9 +7,10 @@ public class Arrays {
 		
 		
 	
-		abc[2]=60;
-		abc[3]=50;
-		System.out.println("Number of length "+abc[3]);
+		fruits[2]="Rabiul";
+		fruits[3]="Awal";
+		
+		System.out.println("Number of length "+ fruits[3]);
 
 	}
 
