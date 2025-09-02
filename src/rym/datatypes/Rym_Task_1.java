@@ -1,4 +1,4 @@
-package rym_Tasks;
+package rym.datatypes;
 
 public class Rym_Task_1 {
 
